@@ -1,3 +1,4 @@
-# Solution modèle du TP - Volet #1
+# Projet : TeeTIM avec integration su SGBDR (MySQL)
+## Configuré avec .devcontainer pour utiliser Github Codespaces
 
-> Se référer à l'énoncé sur GitHub : [TP - Volet #1 - Énoncé](https://github.com/582-3W3/a26-tp-volet1)
+>Url du 
